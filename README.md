@@ -39,6 +39,10 @@ desktop, in any application.
 
 ---
 
+![Screenshot](Screenshot.png)
+
+---
+
 ## ✨ Features
 
 ### 🔎 Image quality & rendering
